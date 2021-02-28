@@ -1,0 +1,5 @@
+{
+    "sketch": "ControlDevicesforCSharp.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM4"
+}
